@@ -1,0 +1,15 @@
+body{
+    background-image: url(../picture/image-best-wallpaper-download.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+img{
+    object-fit: cover;
+}
+
+.form{
+    width: 100%;
+    max-width: 600px;
+}
